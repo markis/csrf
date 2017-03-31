@@ -8,6 +8,7 @@
   ],
   "license": "MIT",
   "repository": "pillarjs/csrf",
+  "types": "index.d.ts",
   "dependencies": {
     "rndm": "1.2.0",
     "tsscmp": "1.0.5",
